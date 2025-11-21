@@ -22,7 +22,7 @@ return{
 
             -- manager
             tnsmi_manager_pause = "Paquetes de sonido",
-            tnsmi_manager_display_in_pause = "Mostrar en menú de páusa",
+            tnsmi_manager_display_in_pause = "Mostrar en menú de pausa",
             tnsmi_manager_selected = "ACTIVOS",
             tnsmi_manager_click_select = "CLICK PARA SELECCIONAR",
             tnsmi_manager_active = "Paquetes activos",
